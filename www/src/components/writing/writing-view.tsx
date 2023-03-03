@@ -83,7 +83,7 @@ export const WritingView: React.FC<React.PropsWithChildren<WritingViewDataProps>
               <ExternalLink
                 fontSize={[`md`, null, null, `lg`]}
                 fontWeight="medium"
-                href={`https://github.com/LekoArts/portfolio-v2/edit/main/www/content/writing/${post.parent.parent.relativePath}`}
+                href={`https://github.com/${post.parent.parent.relativePath}`}
               >
                 Edit on GitHub
               </ExternalLink>
@@ -91,7 +91,7 @@ export const WritingView: React.FC<React.PropsWithChildren<WritingViewDataProps>
               <ExternalLink
                 fontSize={[`md`, null, null, `lg`]}
                 fontWeight="medium"
-                href={`https://www.twitter.com/search?q=${encodeURIComponent(`https://www.lekoarts.de${pathname}`)}`}
+                href={`https://www.twitter.com}`}
               >
                 Discuss on Twitter
               </ExternalLink>
