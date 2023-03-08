@@ -8,9 +8,7 @@
       link: /tutorials
     - name: React
       link: /react
-    - name: RSS Feed
-      link: /rss.xml
-      isExternal: true
+   
 - heading:
     name: Art
     link: /art
@@ -35,17 +33,17 @@
     name: Social
   items:
     - name: Email
-      link: mailto:hello@lekoarts.de
+      link: mailto:mchina132@lekoarts.de
       isExternal: true
     - name: Twitter
-      link: https://www.twitter.com/lekoarts_de
+      link: https://www.twitter.com
       isExternal: true
     - name: Mastodon
-      link: https://mastodon.social/@lekoarts
+      link: https://mastodon.social
       isExternal: true
     - name: GitHub
-      link: https://www.github.com/LekoArts
+      link: https://www.github.com
       isExternal: true
     - name: LinkedIn
-      link: https://www.linkedin.com/in/lennart-joergens/
+      link: https://www.linkedin.com
       isExternal: true
